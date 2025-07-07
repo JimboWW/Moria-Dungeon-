@@ -1,7 +1,7 @@
 # Moria-Dungeon-
 HTML, CSS, Javascript, JSON minimalist style RPG 
 
-Proposed File Structure 
+Proposed File Structure:
 
 Moria-Dungeon-/
 
