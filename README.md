@@ -32,5 +32,7 @@ Moria-Dungeon-/
 │   ├── test_functions.js
 
 │   └── ...           # Any function/unit tests or experimental files
+
 └── assets/
+
     └── ...                # Any images, sound, or other resources
